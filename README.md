@@ -7,3 +7,5 @@
 	<img src="https://github-profile-trophy.vercel.app/?username=daizhiyuan"/>
 </p>
 
+<!--   grid-snake -->
+![](./assets/contribution-grid-snake.svg)
